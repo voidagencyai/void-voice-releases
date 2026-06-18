@@ -1,0 +1,15 @@
+{
+  "version": "0.1.5",
+  "notes": "Fix: crash al iniciar en Windows — protección de instancia única, recuperación de base de datos corrupta, checkpoint del WAL al cerrar y soporte de micrófonos Bluetooth.",
+  "pub_date": "2026-06-17T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUczBlNnJheCs2VUNEQXA0WEtHTDRlcFJZMGZFeld0dHN5enFNcTJJQXAwczVTc05rNnFSamMK",
+      "url": "https://github.com/voidagencyai/void-voice-releases/releases/download/v0.1.3/Void.Voice.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUczBlNnJheCs2VUdCMDVyelNIMjh6OEZsT0Uzc3J0bUd2amFUSnphQXJhaWN0cWJhaWg3cys1dWZJbkpvbVh2YVcxSmZCOFJOVVViR1VCMUdKaHJOaCsrdHplV2RYZ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzQxOTc0CWZpbGU6Vm9pZCBWb2ljZV8wLjEuNV94NjQtc2V0dXAuZXhlCjEzMjFaQ3RJUFVmNUt1NkduQS81eG0yMFNSUVNQZU9HZHdlOTZCSm5QcVdPYURMcENidkd3bkllR3dLa015akJjMXBiQTNONFBWbHpIUXBKWVNXUUN3PT0K",
+      "url": "https://github.com/voidagencyai/void-voice-releases/releases/download/v0.1.5/Void.Voice_0.1.5_x64-setup.exe"
+    }
+  }
+}
